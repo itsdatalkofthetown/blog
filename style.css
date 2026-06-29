@@ -10,10 +10,12 @@ body {
   max-width: 700px;
   margin: 40px auto;
   padding: 0 16px;
-}
-img {
+  img {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 24px auto;
 }
+  
+}
+
