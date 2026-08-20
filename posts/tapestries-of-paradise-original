@@ -1,1 +1,13 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/style.css">
+    <title>Tapestries Of Paradise</title>
+  </head>
 
+  <body>
+    <h1>The Weaver (J1082)</h1>
+    <p> 
+     August 18, 2026
+    <p>
+     <button onclick="window.location.href='index.html'">Back</button>
